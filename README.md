@@ -1,6 +1,5 @@
 # Steam Games ML Project
-### Cel projektu
-Predykcja sukcesu gier komputerowych na platformie Steam przy użyciu uczenia maszynowego 
-### Dane
-Steam Store Games Dataset (Kaggle): https://www.kaggle.com/datasets/nikdavis/steam-store-games  
-
+### Project Goal
+Prediction of video game success on the Steam platform using machine learning.
+### Data
+Steam Store Games Dataset (Kaggle): https://www.kaggle.com/datasets/nikdavis/steam-store-games
